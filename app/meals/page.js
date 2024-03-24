@@ -3,5 +3,6 @@ export default function MealsPage() {
             <h1>
                 Meals page
             </h1>
-        )
+            )
+        
 }
